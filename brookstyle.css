@@ -1,0 +1,120 @@
+
+/* colors:
+
+#F8B423
+#D98A1E
+#F0822E
+#D9541E
+#F84123
+
+ */
+
+nav {
+padding: 15px 25px !important;
+background-color: #FF2121;
+}
+
+.iconName {
+  font-size: 2.5rem;
+  color: white;
+  font-family: Palatino, serif;
+  font-weight: bold;
+}
+
+.nav-link {
+  display: inline;
+}
+
+.YT {
+  color: white;
+}
+
+.YT:hover {
+  color: red;
+  background-color: white;
+}
+
+.IG {
+  color: white;
+}
+
+.IG:hover {
+  color: red;
+  background-color: white;
+}
+
+
+/* ======================== navbar menu ===================== */
+.home {
+  height: 900px;
+}
+
+.homeText {
+  width: 35%;
+  position: relative;
+  left: 5.5%; top: 11%;
+  padding: 2%;
+  border-style: groove;
+  border-width: 0.5rem;
+  background-color: #D94C21;
+  color: white;
+}
+
+.homePic {
+  width: 35rem;
+  filter: grayscale(60%);
+  position: absolute;
+  right: 8%;
+}
+
+ .name {
+  margin: 0rem 2rem 2rem;
+  font-family: Palatino, serif;
+  font-weight: bold;
+  position: relative;
+  top: 1.5rem;
+  left: 45rem;
+  border-color: #D98A1E;
+  border-width: thick;
+  border-bottom-style: solid;
+  width: 35rem;
+  color: white;
+  font-size: 3.8rem;
+}
+
+.descrip {
+  padding: 0.3rem 0.3rem 0.4rem 0.6rem;
+  position: relative;
+  left: 6.5rem;
+  border-color: #F0822E;
+  border-width: thick;
+  border-bottom-style: solid;
+  width: 22rem;
+  color: white;
+  font-size: 2rem;
+}
+
+body {
+  background-color: black;
+}
+
+.text {
+  color: white;
+  width: 45%;
+  font-size: 1.3rem;
+  font-family:Verdana,Geneva, sans-serif;
+  margin: 18px 0 0 20px;
+}
+
+.emailText {
+  float: left;
+  margin-left: 22px;
+  color: white;
+}
+
+  .btn {
+    width: 115px;
+    position: absolute;
+    left: 460px;
+  }
+/* =================== home landing page =============== */
